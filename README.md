@@ -1,2 +1,2 @@
 # City-Based-News-App
-An App that lets you select a city and get some news article based on that city
+An App that lets you select a city and displays a list of articles based on the selected city, taken from wordpress. 
