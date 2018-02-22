@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/your_city"
+            android:title="Your City" />
+        <item
+            android:id="@+id/queries"
+            android:title="Queries" />
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/join_us"
+                android:title="Join Us" />
+        </menu>
+    </item>
+
+</menu>
